@@ -4,7 +4,7 @@
  * main - my entry point
  *
  * Description: print all sizes in c
- * Return: 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
