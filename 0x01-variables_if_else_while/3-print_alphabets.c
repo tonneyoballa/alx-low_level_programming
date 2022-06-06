@@ -7,7 +7,7 @@
  *
  * Return: Always 0 (Success)
  */
-int main(vaid)
+int main(void)
 {
 char alpha;
 
