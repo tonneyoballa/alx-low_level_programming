@@ -5,7 +5,7 @@
  * @c: character being checked
  * Return: 1 if c is a letter if not 0
  */
-int _isalpha(char c)
+int _isalpha(int c)
 {
 if (c < 65 || c > 122)
 {
