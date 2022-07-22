@@ -17,7 +17,7 @@ unsigned int _stoi(char c)
  * @s: input
  * Return: length of string
  */
-unsigned int _strlen(char const *str)
+unsigned int _strlen(char const *s)
 {
 	unsigned int i;
 
